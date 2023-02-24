@@ -1,2 +1,2 @@
-# Welcome to React Ecommerce Website Series
+# Welcome to React Ecommerce Website 
 
